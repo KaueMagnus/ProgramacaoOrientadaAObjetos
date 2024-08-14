@@ -1,0 +1,7 @@
+Java é uma linguagem de programação que muitas vezes se torna a escolha certa para quem precisa criar sistemas, aplicativos ou até jogos. Ela é conhecida por ser escreva uma vez, rode em qualquer lugar, graças a sua portabilidade.
+
+Agora, quando falamos de programação, existem duas maneiras principais de organizar o código: Programação Orientada a Objetos (POO) e Programação Estruturada.
+
+POO é como montar um quebra-cabeça, onde cada peça (classe ou objeto) tem um papel específico. Isso torna o código mais fácil de entender, modificar e reaproveitar, especialmente em projetos grandes.
+
+Programação Estruturada é mais como seguir uma receita passo a passo. O código é organizado em uma sequência de comandos, o que funciona bem para projetos menores, mas pode se tornar difícil de gerenciar quando o sistema cresce.
